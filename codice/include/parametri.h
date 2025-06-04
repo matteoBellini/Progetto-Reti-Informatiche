@@ -1,0 +1,6 @@
+#define NUM_DOMANDE 5
+#define MAX_LENGTH 1000
+#define MAX_INPUT_LENGTH 40
+#define SERVER_PORT 6000
+#define BACKLOG 100
+#define SERVER_ADDR "127.0.0.1"

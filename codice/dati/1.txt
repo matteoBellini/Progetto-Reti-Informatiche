@@ -1,0 +1,5 @@
+Quale linguaggio di programmazione è stato creato da Guido van Rossum?|python
+Qual è una memoria di tipo volatile?|ram
+Cosa significa l'acronimo HTML?|hypertext markup language~hyper text markup language
+Qual è il sistema operativo open source più usato nei server?|linux
+Quale azienda sviluppa il browser Chrome?|google
